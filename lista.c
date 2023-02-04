@@ -1,3 +1,12 @@
+/**********************************************************
+ *                                                        *
+ *    This code creates a simple list structure.          *  
+ *    It stores integers (easy to convert to another      *
+ *    list type from this code) and can grow at will      *
+ *    using memory allocation and memory de-allocation    *
+ *                                                        *
+ **********************************************************/
+
 #include <stdio.h>
 #include <malloc.h>
 
